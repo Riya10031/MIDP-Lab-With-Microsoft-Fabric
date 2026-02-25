@@ -71,7 +71,7 @@ For convenience, you can open the lab guide in a separate window by selecting th
  
 ## Managing Your Virtual Machine
  
-Feel free to **Start, Restart, and Stop(2)** your virtual machine as needed from the **Resources(1)** tab. Your experience is in your hands!
+Feel free to **Start, Restart, and Stop (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
  
 ![Manage Your Virtual Machine](../../media/vmssr.png)
 
@@ -93,7 +93,7 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
       https://app.powerbi.com/
       ```
 
-3. On the **Enter your email, we'll check if you need to create a new account** page, enter the provided email address in the input field, and click **Submit** to proceed.
+3. On the **Enter your email, we'll check if you need to create a new account** page, enter the provided email address in the **input field (1)**, and click **Submit (2)** to proceed.
 
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
  
@@ -121,15 +121,15 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
    ![Account-manager-start](../../media/freetriall.png)  
 
-1. A new prompt will appear asking you to **Activate your 60-day free Fabric trial capacity**, click on **Activate**.
+1. A new prompt will appear asking you to **Activate your 60-day free Fabric trial capacity** keep the **default (1)** Trial capacity region, click on **Activate (2)**.
 
-   ![](../../media/60act.png)
+   ![](../../media/60actup.png)
 
 1. On **Successfully upgraded to Microsoft Fabric** pop-up click **OK**. 
 
    ![](../../media/sumf.png)
 
-1. After your trial capacity is successfully set up,on **Invite teammates to try Fabric to extend your trial** pop-up, click on **X** button.
+1. After your trial capacity is successfully set up, on **Invite teammates to try Fabric to extend your trial** pop-up, click on **X** button.
 
    ![](../../media/invite.png) 
 
